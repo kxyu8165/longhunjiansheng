@@ -30,6 +30,7 @@ body {
     color: #333;
     font-size: 14px;
     font-family: Avenir, Helvetica, Arial, "Noto Sans TC", sans-serif;
+    overflow-x: hidden;
 }
 
 li {
