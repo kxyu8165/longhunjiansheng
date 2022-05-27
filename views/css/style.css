@@ -2194,7 +2194,7 @@ svg:not(:root) {
 }
 
 #contentWp {
-    font: 16px/2 'microsoft yahei';
+    font: 20px/2 'microsoft yahei';
 }
 
 #contentWp p {
@@ -3772,7 +3772,7 @@ a, b, body, dd, div, dl, dt, em, fieldset, form, h1, h2, h3, h4, h5, html, i, if
 
     .paper-article h1 {
         text-align: left;
-        margin-top: 25px;
+        margin-top: 10px;
     }
 
 
